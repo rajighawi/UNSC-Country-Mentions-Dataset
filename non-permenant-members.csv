@@ -1,0 +1,251 @@
+country,year,code
+Argentina,1995,ARG
+Botswana,1995,BWA
+Czech Republic,1995,CZE
+Germany,1995,DEU
+Honduras,1995,HND
+Indonesia,1995,IDN
+Italy,1995,ITA
+Nigeria,1995,NGA
+Oman,1995,OMN
+Rwanda,1995,RWA
+Botswana,1996,BWA
+Chile,1996,CHL
+Germany,1996,DEU
+Egypt,1996,EGY
+Guinea-Bissau,1996,GNB
+Honduras,1996,HND
+Indonesia,1996,IDN
+Italy,1996,ITA
+Republic of Korea,1996,KOR
+Poland,1996,POL
+Chile,1997,CHL
+Costa Rica,1997,CRI
+Egypt,1997,EGY
+Guinea-Bissau,1997,GNB
+Japan,1997,JPN
+Kenya,1997,KEN
+Republic of Korea,1997,KOR
+Poland,1997,POL
+Portugal,1997,PRT
+Sweden,1997,SWE
+Bahrain,1998,BHR
+Brazil,1998,BRA
+Costa Rica,1998,CRI
+Gabon,1998,GAB
+Gambia,1998,GMB
+Japan,1998,JPN
+Kenya,1998,KEN
+Portugal,1998,PRT
+Slovenia,1998,SVN
+Sweden,1998,SWE
+Argentina,1999,ARG
+Bahrain,1999,BHR
+Brazil,1999,BRA
+Canada,1999,CAN
+Gabon,1999,GAB
+Gambia,1999,GMB
+Malaysia,1999,MYS
+Namibia,1999,NAM
+Netherlands,1999,NLD
+Slovenia,1999,SVN
+Argentina,2000,ARG
+Bangladesh,2000,BGD
+Canada,2000,CAN
+Jamaica,2000,JAM
+Mali,2000,MLI
+Malaysia,2000,MYS
+Namibia,2000,NAM
+Netherlands,2000,NLD
+Tunisia,2000,TUN
+Ukraine,2000,UKR
+Bangladesh,2001,BGD
+Colombia,2001,COL
+Ireland,2001,IRL
+Jamaica,2001,JAM
+Mali,2001,MLI
+Mauritius,2001,MUS
+Norway,2001,NOR
+Singapore,2001,SGP
+Tunisia,2001,TUN
+Ukraine,2001,UKR
+Bulgaria,2002,BGR
+Cameroon,2002,CMR
+Colombia,2002,COL
+Guinea,2002,GIN
+Ireland,2002,IRL
+Mexico,2002,MEX
+Mauritius,2002,MUS
+Norway,2002,NOR
+Singapore,2002,SGP
+Syrian Arab Republic,2002,SYR
+Angola,2003,AGO
+Bulgaria,2003,BGR
+Chile,2003,CHL
+Cameroon,2003,CMR
+Germany,2003,DEU
+Spain,2003,ESP
+Guinea,2003,GIN
+Mexico,2003,MEX
+Pakistan,2003,PAK
+Syrian Arab Republic,2003,SYR
+Angola,2004,AGO
+Benin,2004,BEN
+Brazil,2004,BRA
+Chile,2004,CHL
+Germany,2004,DEU
+Algeria,2004,DZA
+Spain,2004,ESP
+Pakistan,2004,PAK
+Philippines,2004,PHL
+Romania,2004,ROU
+Argentina,2005,ARG
+Benin,2005,BEN
+Brazil,2005,BRA
+Denmark,2005,DNK
+Algeria,2005,DZA
+Greece,2005,GRC
+Japan,2005,JPN
+Philippines,2005,PHL
+Romania,2005,ROU
+United Republic of Tanzania,2005,TZA
+Argentina,2006,ARG
+Congo,2006,COG
+Denmark,2006,DNK
+Ghana,2006,GHA
+Greece,2006,GRC
+Japan,2006,JPN
+Peru,2006,PER
+Qatar,2006,QAT
+Slovakia,2006,SVK
+United Republic of Tanzania,2006,TZA
+Belgium,2007,BEL
+Congo,2007,COG
+Ghana,2007,GHA
+Indonesia,2007,IDN
+Italy,2007,ITA
+Panama,2007,PAN
+Peru,2007,PER
+Qatar,2007,QAT
+Slovakia,2007,SVK
+South Africa,2007,ZAF
+Belgium,2008,BEL
+Burkina Faso,2008,BFA
+Costa Rica,2008,CRI
+Croatia,2008,HRV
+Indonesia,2008,IDN
+Italy,2008,ITA
+Libyan Arab Jamahiriya,2008,LBY
+Panama,2008,PAN
+Viet Nam,2008,VNM
+South Africa,2008,ZAF
+Austria,2009,AUT
+Burkina Faso,2009,BFA
+Costa Rica,2009,CRI
+Croatia,2009,HRV
+Japan,2009,JPN
+Libyan Arab Jamahiriya,2009,LBY
+Mexico,2009,MEX
+Turkey,2009,TUR
+Uganda,2009,UGA
+Viet Nam,2009,VNM
+Austria,2010,AUT
+Bosnia and Herzegovina,2010,BIH
+Brazil,2010,BRA
+Gabon,2010,GAB
+Japan,2010,JPN
+Lebanon,2010,LBN
+Mexico,2010,MEX
+Nigeria,2010,NGA
+Turkey,2010,TUR
+Uganda,2010,UGA
+Bosnia and Herzegovina,2011,BIH
+Brazil,2011,BRA
+Colombia,2011,COL
+Germany,2011,DEU
+Gabon,2011,GAB
+India,2011,IND
+Lebanon,2011,LBN
+Nigeria,2011,NGA
+Portugal,2011,PRT
+South Africa,2011,ZAF
+Azerbaijan,2012,AZE
+Colombia,2012,COL
+Germany,2012,DEU
+Guatemala,2012,GTM
+India,2012,IND
+Morocco,2012,MAR
+Pakistan,2012,PAK
+Portugal,2012,PRT
+Togo,2012,TGO
+South Africa,2012,ZAF
+Argentina,2013,ARG
+Australia,2013,AUS
+Azerbaijan,2013,AZE
+Guatemala,2013,GTM
+Republic of Korea,2013,KOR
+Luxembourg,2013,LUX
+Morocco,2013,MAR
+Pakistan,2013,PAK
+Rwanda,2013,RWA
+Togo,2013,TGO
+Argentina,2014,ARG
+Australia,2014,AUS
+Chile,2014,CHL
+Jordan,2014,JOR
+Republic of Korea,2014,KOR
+Lithuania,2014,LTU
+Luxembourg,2014,LUX
+Nigeria,2014,NGA
+Rwanda,2014,RWA
+Chad,2014,TCD
+Angola,2015,AGO
+Chile,2015,CHL
+Spain,2015,ESP
+Jordan,2015,JOR
+Lithuania,2015,LTU
+Malaysia,2015,MYS
+Nigeria,2015,NGA
+New Zealand,2015,NZL
+Chad,2015,TCD
+Venezuela (Bolivarian Republic of),2015,VEN
+Angola,2016,AGO
+Egypt,2016,EGY
+Spain,2016,ESP
+Japan,2016,JPN
+Malaysia,2016,MYS
+New Zealand,2016,NZL
+Senegal,2016,SEN
+Ukraine,2016,UKR
+Uruguay,2016,URY
+Venezuela (Bolivarian Republic of),2016,VEN
+Bolivia,2017,BOL
+Egypt,2017,EGY
+Ethiopia,2017,ETH
+Italy,2017,ITA
+Japan,2017,JPN
+Kazakhstan,2017,KAZ
+Senegal,2017,SEN
+Sweden,2017,SWE
+Ukraine,2017,UKR
+Uruguay,2017,URY
+Bolivia,2018,BOL
+Côte d'Ivoire,2018,CIV
+Ethiopia,2018,ETH
+Equatorial Guinea,2018,GNQ
+Kazakhstan,2018,KAZ
+Kuwait,2018,KWT
+Netherlands,2018,NLD
+Peru,2018,PER
+Poland,2018,POL
+Sweden,2018,SWE
+Belgium,2019,BEL
+Côte d'Ivoire,2019,CIV
+Germany,2019,DEU
+Dominican Republic,2019,DOM
+Equatorial Guinea,2019,GNQ
+Indonesia,2019,IDN
+Kuwait,2019,KWT
+Peru,2019,PER
+Poland,2019,POL
+South Africa,2019,ZAF
